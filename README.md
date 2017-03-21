@@ -1,6 +1,7 @@
 # homebrew-tfenv
 
-![merged] Merge to homebrew-core by @pyro2927 user.
+![merged] Merge to homebrew-core by [@pyro2927](https://github.com/pyro2927).
+Thank you :tada:.
 
 Install the [tfenv](https://github.com/kamatama41/tfenv) via homebrew.
 
